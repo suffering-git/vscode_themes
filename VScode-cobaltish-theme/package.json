@@ -1,0 +1,28 @@
+{
+  "name": "vscode-cobaltish-theme",
+  "version": "1.0.0",
+    "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  
+  
+  
+  "publisher": "suffering",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "cobaltish-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cobaltish-theme.json"
+            }
+        ]
+    }
+}
