@@ -1,28 +1,26 @@
 {
-  "name": "vscode-cobaltish-theme",
-  "version": "1.0.0",
-    "description": "",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  
-  
-  
+  "name": "cobaltish-theme",
+  "displayName": "Cobaltish Theme",
+  "description": "A custom cobalt-inspired theme.",
+  "version": "1.0.1",
   "publisher": "suffering",
-    "engines": {
-        "vscode": "^1.0.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "cobaltish-theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/cobaltish-theme.json"
-            }
-        ]
-    }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YourUsername/my-vscode-themes.git"
+  },
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cobaltish Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cobaltish-theme.json"
+      }
+    ]
+  }
 }
