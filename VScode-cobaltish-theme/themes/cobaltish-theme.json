@@ -1,12 +1,7 @@
 {
     "name": "cobaltish-theme",
     "type": "dark",
-    "settings": {
-        "fontStyle": "bold"
-    },
     "colors": {
-        "editor.fontWeight": "bold",
-        "editor.fontStyle": "bold",
         "editor.background": "#1b2b34",
         "editor.foreground": "#ffbfdf",
         "sideBar.background": "#0f1c23",
@@ -116,6 +111,5 @@
                 "fontStyle": "bold"
             }
         }
-        
     ]
 }
