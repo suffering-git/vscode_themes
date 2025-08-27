@@ -6,7 +6,7 @@
   "publisher": "suffering",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YourUsername/my-vscode-themes.git"
+    "url": "https://github.com/suffering-git/vscode_themes"
   },
   "engines": {
     "vscode": "^1.70.0"
